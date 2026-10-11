@@ -12,7 +12,7 @@ A multi-page Power BI dashboard that tracks the full business chain of a dates p
 <!-- Add screenshots to a /screenshots folder and update the paths below -->
 | Sales Overview | Production |
 |---|---|
-| ![Sales Overview](salesOverview.png) | ![Production](screenshots/production.png) |
+| ![Sales Overview](salesOverview.png) | ![Production](sproductionDashboard.png) |
 
 | Inventory | Returned |
 |---|---|
