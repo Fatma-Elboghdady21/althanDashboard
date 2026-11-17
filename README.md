@@ -16,7 +16,7 @@ A multi-page Power BI dashboard that tracks the full business chain of a dates p
 
 | Inventory | Returned |
 |---|---|
-| ![Inventory](inventory2.png) | ![Returned](Returned.png) |
+| ![Inventory](inventory2.png) | ![Returned](return.png) |
 
 ---
 
