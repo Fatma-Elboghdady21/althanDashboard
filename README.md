@@ -22,27 +22,27 @@ A Power BI dashboard for a dates-processing company, covering sales, production,
 ### Sales
 Revenue, cost, profit and margin over time, plus lowest-selling and lowest-profit products.
 
-![Sales Dashboard](images/AlthanSales.png)
+![Sales Dashboard](AlthanSales.png)
 
 ### Production
 Production volume and cost, defect rate, average quality, overtime and downtime by product.
 
-![Production Dashboard](images/AlthanProduction.png)
+![Production Dashboard](AlthanProduction.png)
 
 ### Inventory
 Stock in, stock out, current stock, purchases over time and movement by product.
 
-![Inventory Dashboard](images/AlthanInventory.png)
+![Inventory Dashboard](AlthanInventory.png)
 
 ### Quality
 Shipment quality and the effect of lead time on returns, by country and delivery status.
 
-![Quality Dashboard](images/AlthanQuality.png)
+![Quality Dashboard](AlthanQuality.png)
 
 ### Returns
 Return rate, returned shipments by destination country and lead time by vehicle type.
 
-![Returned Dashboard](images/AlthanReturned.png)
+![Returned Dashboard](AlthanReturned.png)
 
 ## Dataset
 
